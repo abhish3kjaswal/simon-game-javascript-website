@@ -11,4 +11,4 @@ a simon game website of javascript .
 -> javascript
 
 # web application
-
+https://abhish3kjaswal.github.io/simon-game-javascript-website
