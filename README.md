@@ -2,9 +2,8 @@
 a simon game website of javascript .
 
 # features :
--> users can play the drum kit .
--> users can play different music beats and enjoy.
--> users can get to know about many concepts of how to build  javascript website.
+-> users can play a very interesting game that is simon game.
+-> users can get to know about many concepts.
 
 # technology used:
 -> htm5
@@ -12,4 +11,4 @@ a simon game website of javascript .
 -> javascript
 
 # web application
-https://abhish3kjaswal.github.io/drum-kit-javascript-website
+
